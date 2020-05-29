@@ -4,13 +4,7 @@ Hello！
 upd by linc
 
 
-xx
 
-newest
-
-newest2
-
-xxx
 
 1
 
@@ -20,3 +14,4 @@ xxx
 4
 
 56
+
